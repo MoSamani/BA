@@ -6,7 +6,7 @@
 
 
 ### Allgemeine Statistiken :
-- In der Notebooks, die mit *Allgemeine Statistiken* beschriftet sind, sind generelle Informationen über die gelöschten und nicht gelöschten Tweets dargestellt.
+- In den Notebooks, die mit *Allgemeine Statistiken* beschriftet sind, sind generelle Informationen über die gelöschten und nicht gelöschten Tweets dargestellt.
 
 
 ### Features Identifizieren:
