@@ -1,7 +1,7 @@
 # Charakterisierung und Erkennung von Tweet-Löschungen im Rahmen der Polarisierung im COVID-19 Twitter-Diskurs
  
 ### Stichproben:
-- In den Stichproben wird die Stichprobeziehung aus TweetsCov19 und TweetsKB dargestellt.
+- In den Notebooks *TweetsCov19- und TweetsKB-Stichprobe* wurde die Auswahl der Stichproben aus TweetsCov19 und TweetsKB dargestellt.
 
 
 ### Allgemeine Statistiken :
@@ -9,7 +9,7 @@
 
 
 ### Features Identifizieren:
-- In dem Ordner [Features identifizieren](https://github.com/MoSamani/BA/tree/main/Features%20Identifizieren) befinden sich die Jupyther-Notebooks, die den Ansatz für die Extrahierung der Features darstellen. Dafür wurden entweder einen Teil der Daten getestet, oder nur einen Datensatz von den Beiden. 
+- In dem Ordner [Features identifizieren](https://github.com/MoSamani/BA/tree/main/Features%20Identifizieren) befinden sich die Jupyther-Notebooks, die die benutzten Ansätz für die Extrahierung der Features präsentieren. Dafür wurden entweder einen Teil der Daten getestet, oder nur einen Datensatz von den Beiden. 
 
 
 ### Plots:
@@ -18,5 +18,5 @@
 
 
 ### Klassifikatoren:
-- In dem Ordner [Klassifikatoren](https://github.com/MoSamani/BA/tree/main/Klassifikatoren) wurden die Implementierung und Ergebnisse der drei Klassifikatoren, Logisticregression, Random Forest und Gradient Boosting präsentiert.
-- In dem Ordner [Tweets für die Klassifizierung](https://github.com/MoSamani/BA/tree/main/Klassifikatoren/Tweets%20f%C3%BCr%20die%20Kalssifizierung) wurde einerseits die Auswahl der Benutzer mit polarisierten Ansichten dargestellt, andererseits wurde gezeigt, welche Features für die Klassifizierung der gelöschten Tweets benutzt wurden.
+- In dem Ordner [Klassifikatoren](https://github.com/MoSamani/BA/tree/main/Klassifikatoren) wurden die Implementierung und Ergebnisse der drei Klassifiktionsverfahrens Logisticregression, Random Forest und Gradient Boosting vorgeführt.
+- In dem Ordner [Tweets für die Klassifizierung](https://github.com/MoSamani/BA/tree/main/Klassifikatoren/Tweets%20f%C3%BCr%20die%20Kalssifizierung) wurde einerseits die Auswahl der Benutzer mit polarisierten Ansichten dargestellt, andererseits wurde gezeigt, welche Features für die Klassifizierung der gelöschten Tweets ausgewählt wurden.
