@@ -1,10 +1,10 @@
 # Charakterisierung und Erkennung von Tweet-Löschungen im Rahmen der Polarisierung im COVID-19 Twitter-Diskurs
 ### Stichproben:
--In den Stichproben wird dargestellt, wie die Stichproben aus dem TweetsCov19 und TweetsKB genommen wurden.
+- In den Stichproben wird dargestellt, wie die Stichproben aus dem TweetsCov19 und TweetsKB genommen wurden.
 
 ### Identifikation der Features :
--In der Datei befinden sich die Python-Dateien, die die Identifizierung dar Features darstellen.
--In der Python Dateien wurden die Methoden gezeigt mit denene die Ergebnisse berechnet wurden. Dabei sind eintweder Teile der Daten getestet wurden oder nur einen Datensatz. 
+- In der Datei befinden sich die Python-Dateien, die die Identifizierung dar Features darstellen.
+- In der Python Dateien wurden die Methoden gezeigt mit denene die Ergebnisse berechnet wurden. Dabei sind eintweder Teile der Daten getestet wurden oder nur einen Datensatz. 
 
 ### Plots:
 - In der Datei sind die Python-Methoden, die für die implimentierung der Plots geschrieben worden, zu finden.
