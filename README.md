@@ -1,4 +1,3 @@
-
 # Charakterisierung und Erkennung von Tweet-Löschungen im Rahmen der Polarisierung im COVID-19 Twitter-Diskurs
  
 ### Stichproben:
