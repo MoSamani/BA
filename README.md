@@ -8,7 +8,7 @@
 - In der Notebooks, die mit *Allgemeine Statistiken* beschriftet sind, sind generelle Informationen über die gelöschten und nicht gelöschten Tweets dargestellt.
 
 
-### Identifikation der Features :
+### Features Identifizieren:
 - In dem Ordner *Features identifizieren* befinden sich die Jupyther-Notebooks, die den Ansatz für die Extrahierung der Features darstellen. Dafür wurden entweder einen Teil der Daten getestet, oder nur einen Datensatz von den Beiden. 
 
 
