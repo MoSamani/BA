@@ -20,4 +20,4 @@
 
 ### Klassifikatoren:
 - In dem Ordner [Klassifikatoren](https://github.com/MoSamani/BA/tree/main/Klassifikatoren) wurden die Implementierung und Ergebnisse der drei Klassifiktionsverfahrens Logisticregression, Random Forest und Gradient Boosting vorgeführt.
-- In dem Ordner [Tweets für die Klassifizierung](https://github.com/MoSamani/BA/tree/main/Klassifikatoren/Tweets%20f%C3%BCr%20die%20Kalssifizierung) wurde einerseits die Auswahl der Benutzer mit polarisierten Ansichten dargestellt, andererseits wurde gezeigt, welche Features für die Klassifizierung der gelöschten Tweets ausgewählt wurden.
+- In dem Ordner [Tweets für die Klassifizierung](https://github.com/MoSamani/BA/tree/main/Klassifikatoren/Tweets%20f%C3%BCr%20die%20Kalssifizierung) wurde einerseits die Auswahl der Benutzer mit polarisierten Ansichten dargestellt, andererseits wurde gezeigt, welche Features für die Klassifizierung der gelöschten Tweets verwendet wurden.
