@@ -14,7 +14,6 @@
 
 ### Plots:
 - In dem Ordner *Plots* sind die Implimentierung der Grafiken zu finden.
-- Die Abbildungen sin Notebooks gespeichert.
 - In dem Ordner *Tweets von Benutzer mit polarisierten Ansichten*, wurde die Auswahl der geposteten Tweets von Benutzer mit polarisierten Ansichten entlang wissenschaftlicher, politischer und moderater Dimension veranschaulicht.
 
 
