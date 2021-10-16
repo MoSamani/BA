@@ -9,7 +9,7 @@
 
 
 ### Features Identifizieren:
-- In dem Ordner [Features identifizieren][https://github.com/MoSamani/BA/tree/main/Features%20Identifizieren] befinden sich die Jupyther-Notebooks, die den Ansatz für die Extrahierung der Features darstellen. Dafür wurden entweder einen Teil der Daten getestet, oder nur einen Datensatz von den Beiden. 
+- In dem Ordner [Features identifizieren](https://github.com/MoSamani/BA/tree/main/Features%20Identifizieren) befinden sich die Jupyther-Notebooks, die den Ansatz für die Extrahierung der Features darstellen. Dafür wurden entweder einen Teil der Daten getestet, oder nur einen Datensatz von den Beiden. 
 
 
 ### Plots:
