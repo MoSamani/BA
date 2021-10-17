@@ -2,7 +2,7 @@
 # Charakterisierung und Erkennung von Tweet-Löschungen im Rahmen der Polarisierung im COVID-19 Twitter-Diskurs
  
 ### Stichproben:
-- In den Notebooks *TweetsCov19- und TweetsKB-Stichprobe* wurde die Auswahl der Stichproben aus TweetsCov19 und TweetsKB dargestellt.
+- In den Notebooks *TweetsCov19- und TweetsKB-Stichprobe* wird die Auswahl der Stichproben aus TweetsCov19 und TweetsKB dargestellt.
 
 
 ### Allgemeine Statistiken :
@@ -10,13 +10,14 @@
 
 
 ### Features Identifizieren:
-- In dem Ordner [Features identifizieren](https://github.com/MoSamani/BA/tree/main/Features%20Identifizieren) befinden sich die Jupyther-Notebooks, die die benutzten Methoden für die Extrahierung der Features präsentieren. Dafür wurden entweder einen Teil der Daten getestet, oder nur einen Datensatz von den Beiden. 
+- In dem Ordner [Features identifizieren](https://github.com/MoSamani/BA/tree/main/Features%20Identifizieren) befinden sich die Jupyther-Notebooks, die die benutzten Methoden für die Extrahierung der Features präsentieren. Dafür wurden entweder einen Teil der Tweets getestet, oder nur Einen von den beiden Datensätzen. 
 
 
 ### Plots:
 - In dem Ordner [Plots](https://github.com/MoSamani/BA/tree/main/Plots) sind die Implimentierungen für die Darstellung der Grafiken zu finden.
-- In dem Ordner [Tweets von Benutzer mit polarisierten Ansichten](https://github.com/MoSamani/BA/tree/main/Plots/Tweets%20von%20Benutzer%20mit%20polarisierten%20Ansichten), wurde die Auswahl der geposteten Tweets von Benutzer mit polarisierten Ansichten entlang wissenschaftlicher, politischer und moderater Dimension veranschaulicht.
+- In dem Ordner [Tweets von Benutzer mit polarisierten Ansichten](https://github.com/MoSamani/BA/tree/main/Plots/Tweets%20von%20Benutzer%20mit%20polarisierten%20Ansichten), wird die Auswahl der geposteten Tweets von Benutzer mit polarisierten Ansichten entlang wissenschaftlicher, politischer und moderater Dimension veranschaulicht.
+
 
 ### Klassifikatoren:
-- In dem Ordner [Klassifikatoren](https://github.com/MoSamani/BA/tree/main/Klassifikatoren) wurden die Implementierung und Ergebnisse der drei Klassifizierungsverfahrens Logistic Regression, Random Forest und Gradient Boosting vorgeführt.
-- In dem Ordner [Tweets für die Klassifizierung](https://github.com/MoSamani/BA/tree/main/Klassifikatoren/Tweets%20f%C3%BCr%20die%20Kalssifizierung) wurde einerseits die Auswahl der Benutzer dargestellt, andererseits wurde gezeigt, welche Inhalt- und Benutzerfeatures für die Klassifizierung der gelöschten Tweets verwendet wurden.
+- In dem Ordner [Klassifikatoren](https://github.com/MoSamani/BA/tree/main/Klassifikatoren) werden die Implementierung und Ergebnisse der drei Klassifizierungsverfahrens Logistic Regression, Random Forest und Gradient Boosting vorgeführt.
+- In dem Ordner [Tweets für die Klassifizierung](https://github.com/MoSamani/BA/tree/main/Klassifikatoren/Tweets%20f%C3%BCr%20die%20Kalssifizierung) wird einerseits die Auswahl der Benutzer dargestellt, andererseits wird gezeigt, welche Inhalt- und Benutzerfeatures für die Klassifizierung der gelöschten Tweets verwendet wurden.
