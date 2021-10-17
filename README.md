@@ -4,6 +4,7 @@
 ### Stichproben:
 - In den Notebooks *TweetsCov19- und TweetsKB-Stichprobe* ist die Auswahl der Stichproben aus TweetsCov19 und TweetsKB dargestellt.
 
+
 ### Allgemeine Statistiken :
 - Die Notebooks mit der Bezeichnung *Allgemeine Statistiken* enthalten generelle Informationen über die gelöschten und nicht gelöschten Tweets.
 
@@ -19,5 +20,4 @@
 
 ### Klassifikatoren:
 - Im Ordner [Klassifikatoren](https://github.com/MoSamani/BA/tree/main/Klassifikatoren) finden Sie die Notebooks, die die Implementierung und die Ergebnisse der drei Klassifikationsmethoden Logistic Regression, Random Forest und Gradient Boosting demonstrieren.
-- Im Ordner [Tweets für die Klassifizierung](https://github.com/MoSamani/BA/tree/main/Klassifikatoren/Tweets%20f%C3%BCr%20die%20Kalssifizierung) enthält die Notebooks, die zum einen die Auswahl der Nutzer darstellen, zum anderen zeigen, welche Inhalte und Nutzermerkmale verwendet wurden, um die gelöschten Tweets zu klassifizieren.
-
+- Der Ordner [Tweets für die Klassifizierung](https://github.com/MoSamani/BA/tree/main/Klassifikatoren/Tweets%20f%C3%BCr%20die%20Kalssifizierung) enthält die Notebooks, die zum einen die Auswahl der Nutzer darstellen, zum anderen zeigen, welche Inhalte und Nutzermerkmale verwendet wurden, um die gelöschten Tweets zu klassifizieren.
