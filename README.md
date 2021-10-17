@@ -2,22 +2,22 @@
 # Charakterisierung und Erkennung von Tweet-Löschungen im Rahmen der Polarisierung im COVID-19 Twitter-Diskurs
  
 ### Stichproben:
-- In den Notebooks *TweetsCov19- und TweetsKB-Stichprobe* wurde die Auswahl der Stichproben aus TweetsCov19 und TweetsKB dargestellt.
+- In den Notebooks *TweetsCov19- und TweetsKB-Stichprobe* ist die Auswahl der Stichproben aus TweetsCov19 und TweetsKB dargestellt.
 
 
 ### Allgemeine Statistiken :
-- In den Notebooks, die mit *Allgemeine Statistiken* beschriftet sind, sind generelle Informationen über die gelöschten und nicht gelöschten Tweets wiedergegeben.
+- Die Notebooks mit der Bezeichnung *Allgemeine Statistiken* enthalten generelle Informationen über die gelöschten und nicht gelöschten Tweets.
 
 
 ### Features Identifizieren:
-- In dem Ordner [Features identifizieren](https://github.com/MoSamani/BA/tree/main/Features%20Identifizieren) befinden sich die Jupyther-Notebooks, die die benutzten Methoden für die Extrahierung der Features präsentieren. Dafür wurden entweder einen Teil der Daten getestet, oder nur einen Datensatz von den Beiden. 
+- Im Ordner [Features identifizieren](https://github.com/MoSamani/BA/tree/main/Features%20Identifizieren) befinden sich die Jupyter-Notebooks, in denen die Methoden zur Extraktion der Merkmale beschrieben werden. Dazu wurde entweder ein Teil der Tweets oder nur einer der beiden Datensätze getestet.
 
 
 ### Plots:
-- In dem Ordner [Plots](https://github.com/MoSamani/BA/tree/main/Plots) sind die Implimentierungen für die Darstellung der Grafiken zu finden.
-- In dem Ordner [Tweets von Benutzer mit polarisierten Ansichten](https://github.com/MoSamani/BA/tree/main/Plots/Tweets%20von%20Benutzer%20mit%20polarisierten%20Ansichten), wurde die Auswahl der geposteten Tweets von Benutzer mit polarisierten Ansichten entlang wissenschaftlicher, politischer und moderater Dimension veranschaulicht.
+- Im Ordner [Plots](https://github.com/MoSamani/BA/tree/main/Plots) befinden sich die Implementierungen für die Anzeige der Grafiken.
+- Im Ordner [Tweets von Benutzer mit polarisierten Ansichten](https://github.com/MoSamani/BA/tree/main/Plots/Tweets%20von%20Benutzer%20mit%20polarisierten%20Ansichten) befinden sich die Notebooks, die die Auswahl der von Nutzern mit polarisierten Ansichten entlang wissenschaftlicher, politischer und gemäßigter Dimensionen geposteten Tweets  veranschaulichen.
 
 
 ### Klassifikatoren:
-- In dem Ordner [Klassifikatoren](https://github.com/MoSamani/BA/tree/main/Klassifikatoren) wurden die Implementierung und Ergebnisse der drei Klassifizierungsverfahrens Logistic Regression, Random Forest und Gradient Boosting vorgeführt.
-- In dem Ordner [Tweets für die Klassifizierung](https://github.com/MoSamani/BA/tree/main/Klassifikatoren/Tweets%20f%C3%BCr%20die%20Kalssifizierung) wurde einerseits die Auswahl der Benutzer dargestellt, andererseits wurde gezeigt, welche Inhalt- und Benutzerfeatures für die Klassifizierung der gelöschten Tweets verwendet wurden.
+- Im Ordner [Klassifikatoren](https://github.com/MoSamani/BA/tree/main/Klassifikatoren) finden Sie die Notebooks, die die Implementierung und die Ergebnisse der drei Klassifikationsmethoden Logistic Regression, Random Forest und Gradient Boosting demonstrieren.
+- Im Ordner [Tweets für die Klassifizierung](https://github.com/MoSamani/BA/tree/main/Klassifikatoren/Tweets%20f%C3%BCr%20die%20Kalssifizierung) enthält die Notebooks, die zum einen die Auswahl der Nutzer darstellen, zum anderen zeigen, welche Inhalte und Nutzermerkmale verwendet wurden, um die gelöschten Tweets zu klassifizieren.
