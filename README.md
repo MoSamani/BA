@@ -16,6 +16,7 @@
 ### Plots:
 - Im Ordner [Plots](https://github.com/MoSamani/BA/tree/main/Plots) befinden sich die Implementierungen für die Darstellung der Grafiken.
 - Im Ordner [Tweets von Benutzer mit polarisierten Ansichten](https://github.com/MoSamani/BA/tree/main/Plots/Tweets%20von%20Benutzer%20mit%20polarisierten%20Ansichten) befinden sich die Notebooks, die die Auswahl der von Nutzern mit polarisierten Ansichten entlang wissenschaftlicher, politischer und gemäßigter Dimensionen geposteten Tweets  veranschaulichen.
+- Im Ordner [Plots_pdfs](https://github.com/MoSamani/BA/tree/main/Plots/Plots_pdfs) werden die Diagramme gespeichert.
 
 
 ### Klassifikatoren:
@@ -25,7 +26,5 @@
 
 
 ### Data:
-- Im Ordner [Data](https://github.com/MoSamani/BA/tree/main/Data) finden Sie die Dataframes
+- Im Ordner [Data](https://github.com/MoSamani/BA/tree/main/Data) finden Sie die Dataframes.
 
-### Plots:
-- Im Ordner [Plots](https://github.com/MoSamani/BA/tree/main/Plots) werden die Plots gespeichert.
